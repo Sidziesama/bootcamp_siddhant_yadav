@@ -6,5 +6,6 @@ __pycache__/
 
 # Ignore Dirs
 
-env/
+myenv/
 data/
+env/
