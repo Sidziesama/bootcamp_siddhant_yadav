@@ -9,3 +9,8 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+
+
+### Dir Guide
+--> Check homework/README.md for dir info 
+--> APIs are protected by excluding .env files from the repo. 
