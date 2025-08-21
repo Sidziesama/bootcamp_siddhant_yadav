@@ -1,8 +1,6 @@
 # FRE 5040 Bootcamp 
 ### 14 August 2025 - 29 August 2025
 
---> Homework Notebooks are stored in homework/stages/notebooks
-
 ## Stage 04:
 
 ### Documentation
@@ -14,6 +12,7 @@
 
 ### Data Storage: 
 
-homework --> stages --> data (ignored for git) --> -raw -processed 
+homework --> data --> -raw -processed 
 
---> Set "fastparquet" as default parquet engine
+--> Set "fastparquet" as default parquet engine in my env
+--> data stored as both a csv file and a parquet file
